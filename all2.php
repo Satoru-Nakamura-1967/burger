@@ -1,5 +1,6 @@
 <?php
 //	for parent
+//	for child01
 set_time_limit(0);
 include("/home/systematic/systematic.xsrv.jp/public_html/hotp/tools.php");
 $cols = array("name", "addr", "ido", "kdo", "tel", "budget", "news", "genre", "area", "access", "opening_time", "holiday", "seats");
